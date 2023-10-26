@@ -1,0 +1,26 @@
+{
+  "name": "MMM-HHStadtrad",
+  "version": "1.0.0",
+  "description": "Stadtrad Hamburg Overview",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreasvp/MMM-HHStadtrad.git"
+  },
+  "keywords": [
+    "MagicMirror",
+    "Stadtrad Hamburg",
+    "Mobility"
+  ],
+  "author": "Andreas von Pein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreasvp/MMM-HHStadtrad/issues"
+  },
+  "homepage": "https://github.com/andreasvp/MMM-HHStadtrad#readme",
+  "dependencies": {
+    "request": "~2.83.0"
+  },
+  "devDependencies": {
+    "request": "latest"
+  }
+}
